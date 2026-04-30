@@ -1,0 +1,151 @@
+Candidate_ID,Job_Title,Location,Years_Experience,Current_Salary_ZAR,Expected_Salary_ZAR,Skills,Company,Industry,Hiring_Demand_Score,Talent_Availability_Score
+1,Business Analyst,Cape Town,2,29518,34354,"Excel, Power BI",Company B,Healthcare,90,57
+2,BI Analyst,Johannesburg,6,43688,53242,"Excel, SQL, Power BI",FinTech Y,Retail,88,85
+3,Business Analyst,Cape Town,6,19489,22146,"Excel, Python, Power BI",Company B,Tech,75,80
+4,BI Analyst,Johannesburg,6,41230,47958,"Python, Tableau, SQL",FinTech Y,Tech,86,84
+5,BI Analyst,Johannesburg,5,34439,41072,"Python, Excel, SQL, Power BI",Company A,Tech,70,89
+6,Data Analyst,Johannesburg,4,28811,32478,"Python, SQL, Excel",Company C,Healthcare,92,48
+7,Business Analyst,Remote,3,40632,45886,"Python, Tableau, SQL",Company A,Finance,96,81
+8,BI Analyst,Johannesburg,3,30874,37057,"Power BI, Python",Company C,Healthcare,100,90
+9,Business Analyst,Cape Town,2,24481,30391,"SQL, Excel",Company A,Retail,92,78
+10,Data Analyst,Cape Town,8,40677,46850,"Python, SQL",FinTech Y,Healthcare,99,81
+11,BI Analyst,Remote,1,30596,34815,"Python, Tableau, Excel",FinTech Y,Retail,77,55
+12,Data Analyst,Cape Town,1,31226,35883,"Python, SQL, Tableau",Company B,Tech,87,81
+13,Business Analyst,Cape Town,5,43383,49644,"Tableau, Excel, Python",FinTech Y,Tech,63,56
+14,Business Analyst,Remote,6,23925,28097,"Tableau, SQL, Power BI",Company B,Finance,63,72
+15,Data Analyst,Johannesburg,6,25466,30149,"Power BI, Tableau",Company A,Healthcare,66,79
+16,Business Analyst,Johannesburg,7,31242,35045,"Power BI, Excel",Startup X,Tech,100,70
+17,Business Analyst,Johannesburg,7,21648,25805,"Python, Excel",FinTech Y,Tech,95,44
+18,Business Analyst,Remote,5,19986,22536,"Python, Power BI, Tableau, Excel",FinTech Y,Finance,63,59
+19,Data Analyst,Remote,2,25462,29895,"Tableau, Python",Company A,Tech,62,81
+20,BI Analyst,Remote,6,38328,45752,"Tableau, SQL, Python",Company B,Retail,68,60
+21,BI Analyst,Johannesburg,7,23365,28975,"Python, Tableau, SQL",FinTech Y,Healthcare,64,45
+22,BI Analyst,Johannesburg,2,34437,38050,"Python, Excel, Power BI, SQL",Company A,Finance,75,70
+23,BI Analyst,Cape Town,7,43102,48386,"Excel, SQL, Tableau, Python",FinTech Y,Tech,67,51
+24,Data Analyst,Cape Town,1,43132,52720,"Excel, SQL",FinTech Y,Tech,73,84
+25,BI Analyst,Remote,7,28189,32483,"Excel, Python, Power BI, SQL",Company A,Tech,85,48
+26,Data Analyst,Johannesburg,3,25098,29614,"Python, Tableau, Power BI",Company C,Tech,79,71
+27,Data Analyst,Remote,6,31791,38609,"Excel, Power BI, Python, SQL",Startup X,Retail,63,89
+28,BI Analyst,Cape Town,3,23137,27994,"Python, SQL",Startup X,Finance,70,85
+29,BI Analyst,Cape Town,5,42809,49318,"Python, Excel, Power BI, Tableau",FinTech Y,Healthcare,70,45
+30,BI Analyst,Johannesburg,6,36252,44930,"SQL, Tableau, Power BI",Startup X,Healthcare,63,71
+31,Business Analyst,Remote,7,19042,23114,"SQL, Tableau, Python, Excel",Company A,Finance,62,56
+32,Business Analyst,Cape Town,2,32535,36607,"Python, Tableau, SQL",FinTech Y,Finance,81,53
+33,Business Analyst,Johannesburg,3,21449,25343,"Tableau, Power BI, Excel",Startup X,Finance,82,50
+34,Business Analyst,Remote,8,41294,48097,"Power BI, Python",FinTech Y,Finance,87,84
+35,Business Analyst,Cape Town,6,19971,23796,"Power BI, Tableau",Startup X,Healthcare,90,43
+36,Data Analyst,Remote,4,41797,46879,"Power BI, SQL, Excel, Python",Company A,Tech,65,65
+37,Business Analyst,Cape Town,6,36559,42636,"Tableau, Power BI",FinTech Y,Tech,71,51
+38,Data Analyst,Remote,2,20305,22441,"SQL, Power BI, Python, Excel",Startup X,Retail,75,87
+39,Business Analyst,Cape Town,6,44191,52343,"SQL, Power BI, Tableau",Company B,Finance,64,69
+40,BI Analyst,Cape Town,1,41607,51638,"SQL, Python",Startup X,Retail,84,67
+41,Data Analyst,Remote,8,44104,49645,"SQL, Tableau, Python, Excel",Company C,Retail,86,73
+42,Data Analyst,Cape Town,5,33367,39139,"Excel, Power BI, Python, SQL",Company C,Healthcare,84,77
+43,BI Analyst,Johannesburg,2,19695,23856,"Power BI, Tableau, Excel",Company B,Healthcare,69,52
+44,Business Analyst,Remote,4,37230,45581,"Tableau, SQL, Power BI",Company A,Tech,91,78
+45,Data Analyst,Johannesburg,1,42895,51964,"Power BI, Excel, SQL",Company A,Healthcare,83,64
+46,BI Analyst,Johannesburg,2,27469,31465,"Python, Power BI, Tableau, SQL",Company C,Finance,83,61
+47,BI Analyst,Cape Town,7,21314,24313,"Python, Power BI",FinTech Y,Finance,93,80
+48,BI Analyst,Cape Town,6,42266,49560,"SQL, Tableau, Power BI, Excel",Company C,Retail,92,42
+49,Business Analyst,Remote,6,25686,31046,"Python, Excel, SQL, Tableau",Startup X,Healthcare,75,87
+50,Data Analyst,Cape Town,5,41489,50583,"Excel, Tableau",Company C,Retail,74,83
+51,Business Analyst,Johannesburg,5,18052,22075,"Power BI, Python",Company C,Retail,79,69
+52,Business Analyst,Remote,3,37315,43632,"Excel, Power BI, Tableau",Startup X,Tech,99,76
+53,Business Analyst,Johannesburg,2,30584,34515,"Tableau, Python, Excel, Power BI",Company A,Healthcare,95,54
+54,BI Analyst,Johannesburg,1,44062,52703,"Tableau, Excel, SQL",Company C,Finance,96,71
+55,Data Analyst,Cape Town,4,40503,47795,"Python, Excel, SQL",Company C,Healthcare,85,41
+56,Data Analyst,Cape Town,7,35417,38978,"Power BI, Python, SQL",Company B,Retail,95,55
+57,Data Analyst,Remote,7,44010,51430,"Tableau, Python, Power BI, Excel",Startup X,Finance,94,76
+58,BI Analyst,Remote,2,20672,25069,"Tableau, Python, Excel, SQL",Startup X,Tech,71,90
+59,Data Analyst,Remote,2,36520,41299,"Excel, Power BI, Tableau",FinTech Y,Healthcare,86,44
+60,Data Analyst,Remote,8,35807,41667,"Python, SQL, Tableau",FinTech Y,Tech,82,74
+61,BI Analyst,Remote,5,39265,46161,"SQL, Power BI, Python",Company B,Healthcare,85,59
+62,Data Analyst,Cape Town,7,39750,48969,"Power BI, Tableau, Python",Company C,Tech,79,62
+63,BI Analyst,Remote,5,19265,23389,"Power BI, SQL, Tableau, Excel",Startup X,Healthcare,92,76
+64,Business Analyst,Johannesburg,5,29948,33310,"Excel, Power BI, Tableau, SQL",Startup X,Healthcare,69,57
+65,BI Analyst,Remote,3,39498,47343,"SQL, Python",Company B,Finance,65,63
+66,BI Analyst,Johannesburg,7,31595,37583,"Power BI, Python, Excel",Company B,Retail,70,74
+67,Data Analyst,Remote,2,39577,47589,"Tableau, Excel",Company B,Tech,72,75
+68,Data Analyst,Cape Town,6,38379,45473,"Power BI, Excel, SQL",FinTech Y,Tech,75,89
+69,Business Analyst,Remote,2,24437,29118,"SQL, Tableau",Company C,Healthcare,68,77
+70,Data Analyst,Remote,4,32393,39783,"Python, SQL, Tableau",Company B,Finance,60,56
+71,BI Analyst,Cape Town,5,24078,28760,"SQL, Excel, Python, Power BI",FinTech Y,Tech,71,68
+72,Business Analyst,Johannesburg,7,42042,49539,"Excel, SQL, Power BI",Startup X,Finance,83,78
+73,Data Analyst,Johannesburg,6,28778,32866,"Excel, Python, SQL, Power BI",Company C,Tech,88,78
+74,BI Analyst,Remote,6,35065,43711,"Python, Excel, SQL",Company C,Healthcare,85,76
+75,Data Analyst,Cape Town,5,38318,46822,"Python, Power BI",Company A,Tech,73,80
+76,BI Analyst,Remote,5,25322,30206,"Power BI, Tableau",Company A,Tech,75,56
+77,Business Analyst,Remote,6,25283,28263,"SQL, Excel",Company A,Healthcare,76,46
+78,Business Analyst,Johannesburg,1,23957,27696,"Power BI, SQL, Excel, Tableau",Company B,Healthcare,72,82
+79,Business Analyst,Cape Town,3,27108,33876,"Power BI, Tableau, SQL, Excel",Company A,Finance,63,68
+80,Data Analyst,Johannesburg,6,41606,46563,"SQL, Excel",Company B,Tech,99,63
+81,Business Analyst,Cape Town,2,35724,39680,"Power BI, Python, Tableau",Company A,Retail,80,48
+82,Business Analyst,Remote,4,35666,39701,"Power BI, Excel, SQL, Python",FinTech Y,Finance,92,55
+83,Data Analyst,Johannesburg,8,42271,50568,"Power BI, Python, SQL, Excel",Company A,Finance,78,54
+84,Data Analyst,Cape Town,3,39215,43443,"Excel, SQL, Power BI, Python",Company B,Healthcare,68,56
+85,Business Analyst,Johannesburg,3,20876,23431,"Python, SQL, Excel, Tableau",Company B,Retail,93,71
+86,BI Analyst,Johannesburg,5,31255,38871,"Power BI, Python, Excel",Company C,Retail,76,43
+87,Data Analyst,Remote,5,24278,29211,"Power BI, SQL, Excel, Tableau",Startup X,Retail,89,58
+88,Data Analyst,Cape Town,2,38064,41976,"Python, Tableau",Company C,Healthcare,87,79
+89,Business Analyst,Remote,5,41352,51091,"Python, Power BI, Excel, SQL",FinTech Y,Tech,68,80
+90,BI Analyst,Cape Town,1,20394,24862,"Power BI, Excel",Startup X,Healthcare,95,54
+91,BI Analyst,Remote,8,38209,44276,"Tableau, Power BI, Python",Company C,Finance,78,82
+92,BI Analyst,Remote,4,40173,48809,"Excel, Tableau",Startup X,Tech,90,74
+93,Data Analyst,Remote,8,32998,38260,"Tableau, Power BI, Excel",FinTech Y,Tech,92,83
+94,BI Analyst,Remote,4,26459,29766,"Power BI, SQL",Startup X,Finance,91,40
+95,BI Analyst,Cape Town,4,32708,37833,"Power BI, Python, Tableau, SQL",Company A,Tech,76,78
+96,BI Analyst,Remote,1,42163,51400,"Python, SQL, Tableau",Startup X,Finance,93,82
+97,Business Analyst,Remote,8,29352,32905,"Excel, Power BI, SQL",FinTech Y,Finance,82,56
+98,Data Analyst,Remote,4,34658,43182,"Excel, Tableau, Python, Power BI",Startup X,Finance,83,46
+99,Data Analyst,Johannesburg,5,43224,52659,"SQL, Power BI, Python, Excel",Startup X,Tech,95,75
+100,Data Analyst,Cape Town,3,44573,49976,"Power BI, Python, SQL, Excel",Company A,Retail,85,58
+101,Business Analyst,Cape Town,7,42427,52053,"Python, Power BI, SQL",Company C,Healthcare,79,61
+102,Data Analyst,Johannesburg,3,18247,21152,"Power BI, Python, SQL",Startup X,Tech,95,65
+103,Data Analyst,Remote,8,35370,39322,"Tableau, SQL",Startup X,Healthcare,73,82
+104,Data Analyst,Remote,5,38987,46368,"Power BI, Excel, Tableau",Company A,Retail,92,60
+105,Data Analyst,Cape Town,6,41833,49104,"Excel, SQL, Power BI, Tableau",Company B,Finance,95,56
+106,Business Analyst,Johannesburg,6,30250,34902,"Excel, SQL, Power BI, Python",Company B,Tech,94,69
+107,Data Analyst,Remote,6,37750,45303,"Python, Excel, SQL, Tableau",FinTech Y,Finance,97,71
+108,Data Analyst,Cape Town,1,24955,27714,"Tableau, Power BI, Excel, SQL",Company A,Tech,90,58
+109,BI Analyst,Cape Town,3,29079,33377,"Python, Tableau, Excel, SQL",Startup X,Healthcare,83,84
+110,Data Analyst,Cape Town,4,29989,33184,"SQL, Excel, Tableau, Power BI",Company C,Tech,90,68
+111,BI Analyst,Johannesburg,7,29423,34382,"SQL, Tableau, Power BI, Excel",Company C,Finance,75,70
+112,BI Analyst,Remote,8,42567,48451,"Python, Power BI, Excel, Tableau",Company C,Tech,69,47
+113,BI Analyst,Johannesburg,6,23427,28213,"Tableau, Power BI",Company A,Tech,84,47
+114,BI Analyst,Johannesburg,2,23530,26146,"SQL, Power BI, Tableau",FinTech Y,Healthcare,82,47
+115,Data Analyst,Remote,7,23564,29002,"Excel, SQL, Python",Startup X,Healthcare,98,77
+116,BI Analyst,Johannesburg,7,34456,39032,"Excel, Python, Tableau, Power BI",FinTech Y,Healthcare,74,62
+117,BI Analyst,Johannesburg,6,20979,24159,"Tableau, Python",Company B,Retail,95,86
+118,Business Analyst,Johannesburg,4,24628,29348,"Power BI, Python, Tableau",Company A,Retail,72,50
+119,BI Analyst,Remote,5,21161,24398,"SQL, Power BI, Tableau, Python",Startup X,Finance,97,67
+120,Business Analyst,Remote,4,23796,28830,"Tableau, Power BI, Excel",Company B,Finance,87,71
+121,BI Analyst,Johannesburg,5,24852,28788,"SQL, Python, Power BI",FinTech Y,Healthcare,95,52
+122,Business Analyst,Johannesburg,6,39073,47232,"Excel, Power BI",Startup X,Healthcare,60,78
+123,Data Analyst,Cape Town,5,43231,53805,"SQL, Python",Company C,Retail,82,65
+124,Data Analyst,Johannesburg,5,44653,51493,"Tableau, Excel, SQL",Company A,Finance,67,76
+125,Data Analyst,Remote,3,41019,45521,"Power BI, Excel",Startup X,Tech,76,47
+126,Data Analyst,Cape Town,8,23117,26073,"Power BI, Tableau",Company B,Tech,79,69
+127,Data Analyst,Cape Town,3,24216,29859,"SQL, Excel, Power BI",FinTech Y,Healthcare,93,75
+128,Business Analyst,Cape Town,4,41753,47269,"SQL, Power BI",Company C,Tech,68,66
+129,BI Analyst,Johannesburg,3,26031,28896,"Tableau, Python",Company C,Tech,93,46
+130,Data Analyst,Remote,4,23693,26292,"Excel, Tableau, Python",FinTech Y,Tech,60,40
+131,Data Analyst,Cape Town,2,22181,26871,"Tableau, Power BI",Startup X,Tech,73,78
+132,BI Analyst,Johannesburg,2,38235,47588,"Python, Tableau",Startup X,Finance,76,76
+133,Business Analyst,Johannesburg,4,23886,29802,"Excel, Tableau",Company C,Finance,72,86
+134,Data Analyst,Johannesburg,7,18000,21617,"Excel, Power BI, Tableau",Startup X,Retail,86,85
+135,Data Analyst,Johannesburg,1,33691,41580,"Excel, Tableau",FinTech Y,Tech,98,40
+136,Business Analyst,Johannesburg,2,23487,28080,"SQL, Python",Company B,Tech,67,53
+137,Data Analyst,Remote,6,30388,34310,"Python, Power BI",FinTech Y,Healthcare,96,47
+138,Business Analyst,Johannesburg,5,33719,39394,"Python, SQL, Tableau",Company A,Finance,71,67
+139,Business Analyst,Johannesburg,5,44012,49859,"Python, Excel, Power BI, Tableau",Startup X,Tech,78,60
+140,BI Analyst,Cape Town,5,19281,22240,"Power BI, SQL",Company A,Tech,81,73
+141,Business Analyst,Cape Town,8,38171,44273,"Power BI, Tableau, Python",Startup X,Tech,66,69
+142,Data Analyst,Johannesburg,5,40754,49444,"Tableau, Excel, Power BI, SQL",FinTech Y,Retail,79,73
+143,Business Analyst,Remote,3,33088,36865,"SQL, Tableau, Excel, Python",Company C,Healthcare,85,71
+144,Data Analyst,Remote,1,39477,48766,"Tableau, Python, SQL",Company B,Tech,92,90
+145,Business Analyst,Remote,5,27393,30743,"Excel, SQL, Power BI, Python",Company C,Healthcare,93,85
+146,Data Analyst,Johannesburg,6,36300,39953,"Power BI, Excel",Company C,Healthcare,86,65
+147,BI Analyst,Johannesburg,1,34178,40644,"Python, Excel, Power BI, Tableau",Company A,Finance,93,48
+148,Business Analyst,Cape Town,6,41071,45269,"Tableau, SQL",Company A,Healthcare,60,71
+149,Data Analyst,Remote,4,29847,36748,"Python, Tableau, Excel, SQL",FinTech Y,Finance,97,45
+150,Business Analyst,Johannesburg,5,37056,43495,"Excel, Power BI, Tableau",Company A,Healthcare,90,46
