@@ -31,12 +31,4 @@ FROM `talent_candidates.candidates`
 GROUP BY location
 ORDER BY demand_supply_gap DESC;
 Are salary expectations aligned with market rates?
-SELECT
-  location,
-  ROUND(AVG(current_salary_zar), 0) AS avg_current_salary,
-  ROUND(AVG(expected_salary_zar), 0) AS avg_expected_salary,
-  ROUND(AVG(expected_salary_zar - current_salary_zar), 0) AS salary_gap,
-  ROUND(AVG((expected_salary_zar - current_salary_zar) / current_salary_zar) * 100, 1) AS percent_gap
-FROM `project_id.dataset.talent_candidates_clean`
-GROUP BY location
-ORDER BY percent_gap DESC;
+
