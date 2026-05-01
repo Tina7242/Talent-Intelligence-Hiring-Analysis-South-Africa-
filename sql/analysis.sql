@@ -56,3 +56,15 @@ FROM `talent_candidates.candidates`
 WHERE job_title = 'Data Analyst'
 GROUP BY location
 ORDER BY total_candidates DESC;
+
+-- 6. High Demand, Low Supply
+
+SELECT
+  location,
+  ROUND(AVG(hiring_demand_score),1) AS demand,
+  ROUND(AVG(talent_availability_score),1) AS supply,
+  ROUND(AVG(hiring_demand_score - talent_availability_score),1) AS gap
+FROM `talent_candidates.candidates`
+GROUP BY location
+HAVING gap > 10
+ORDER BY gap DESC;
