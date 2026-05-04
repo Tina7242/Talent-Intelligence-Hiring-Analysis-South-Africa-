@@ -15,4 +15,6 @@ Key questions:
 - What risks could slow down hiring?
 
 ---
+### 2. Are salary expectations aligned with market rates?
 
+```sql
