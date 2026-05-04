@@ -6,7 +6,7 @@ This project simulates a Talent Intelligence analysis to support hiring Data Ana
 
 ---
 
-## 🧠 Business Problem
+##  Business Problem
 
 A company needs to hire **15 Data Analysts within 6 months**.
 
@@ -142,7 +142,7 @@ Locations with high demand and low supply represent higher hiring risk.
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 * SQL (BigQuery)
 * Excel
@@ -156,7 +156,7 @@ This is a simulated dataset created for portfolio purposes to demonstrate talent
 
 ---
 
-## 🚀 Author
+## Author
 
 Tina Siyengo
 
