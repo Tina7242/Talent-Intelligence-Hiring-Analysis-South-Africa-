@@ -30,7 +30,7 @@ SELECT
   ROUND(AVG(hiring_demand_score), 1) AS avg_demand,
   ROUND(AVG(talent_availability_score), 1) AS avg_supply,
   ROUND(AVG(hiring_demand_score - talent_availability_score), 1) AS demand_supply_gap
-FROM `project_id.dataset.talent_candidates_clean`
+FROM `talent_candidates.candidates`
 GROUP BY location
 ORDER BY demand_supply_gap DESC;
 ```
@@ -49,7 +49,7 @@ SELECT
   ROUND(AVG(expected_salary_zar), 0) AS avg_expected_salary,
   ROUND(AVG(expected_salary_zar - current_salary_zar), 0) AS salary_gap,
   ROUND(AVG((expected_salary_zar - current_salary_zar) / current_salary_zar) * 100, 1) AS percent_gap
-FROM `project_id.dataset.talent_candidates_clean`
+FROM `talent_candidates.candidates`
 GROUP BY location
 ORDER BY percent_gap DESC;
 ```
@@ -65,7 +65,7 @@ Candidates expect approximately 15–20% higher salaries than their current comp
 SELECT
   skill,
   COUNT(*) AS skill_count
-FROM `project_id.dataset.talent_candidates_clean`,
+FROM `talent_candidates.candidates`,
 UNNEST(SPLIT(skills, ', ')) AS skill
 GROUP BY skill
 ORDER BY skill_count DESC;
@@ -86,7 +86,7 @@ SELECT
     ELSE 'Senior'
   END AS experience_level,
   COUNT(*) AS candidate_count
-FROM `project_id.dataset.talent_candidates_clean`
+FROM `talent_candidates.candidates`
 GROUP BY experience_level
 ORDER BY candidate_count DESC;
 ```
@@ -102,7 +102,7 @@ The talent pool is concentrated in mid-level candidates.
 SELECT
   location,
   COUNT(*) AS total_candidates
-FROM `project_id.dataset.talent_candidates_clean`
+FROM `talent_candidates.candidates`
 WHERE job_title = 'Data Analyst'
 GROUP BY location
 ORDER BY total_candidates DESC;
@@ -121,7 +121,7 @@ SELECT
   ROUND(AVG(hiring_demand_score),1) AS demand,
   ROUND(AVG(talent_availability_score),1) AS supply,
   ROUND(AVG(hiring_demand_score - talent_availability_score),1) AS gap
-FROM `project_id.dataset.talent_candidates_clean`
+FROM `talent_candidates.candidates`
 GROUP BY location
 HAVING gap > 10
 ORDER BY gap DESC;
