@@ -16,19 +16,3 @@ Key questions:
 
 ---
 
-## ❓ Key Business Questions & SQL Analysis
-
-### 1. Where is talent supply vs demand most imbalanced?
-
-```sql
-SELECT
-  location,
-  COUNT(*) AS total_candidates,
-  ROUND(AVG(hiring_demand_score), 1) AS avg_demand,
-  ROUND(AVG(talent_availability_score), 1) AS avg_supply,
-  ROUND(AVG(hiring_demand_score - talent_availability_score), 1) AS demand_supply_gap
-FROM `talent_candidates.candidates`
-GROUP BY location
-ORDER BY demand_supply_gap DESC;
-Are salary expectations aligned with market rates?
-
