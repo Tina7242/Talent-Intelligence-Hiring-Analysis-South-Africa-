@@ -132,7 +132,7 @@ Locations with high demand and low supply represent higher hiring risk.
 
 ---
 
-## 📈 Key Recommendations
+##  Key Recommendations
 
 * Expand hiring beyond Cape Town
 * Adjust salary bands to match expectations
