@@ -29,6 +29,7 @@ FROM `project_id.dataset.talent_candidates_clean`
 GROUP BY location
 ORDER BY demand_supply_gap DESC;
 
+---
 ### 2. Are salary expectations aligned with market rates?
 
 ```sql
