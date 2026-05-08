@@ -146,11 +146,11 @@ Locations with high demand and low supply represent higher hiring risk.
 
 * SQL (BigQuery)
 * Excel
-* Tableau
+
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This is a simulated dataset created for portfolio purposes to demonstrate talent intelligence and analytics skills.
 
